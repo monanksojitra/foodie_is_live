@@ -5,7 +5,7 @@ import HowAppWork from "./HowAppWork";
 
 function Home() {
   return (
-    <div className="bg-[##FAFAFA]">
+    <div className="bg-[#FAFAFA]">
       <Hero />
       <HowAppWork />
     </div>
