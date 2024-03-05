@@ -1,4 +1,3 @@
-import React from "react";
 import phonegropimg from "../../public/assets/phonegropimg.png";
 
 const Hero = () => {

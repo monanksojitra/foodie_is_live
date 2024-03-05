@@ -1,4 +1,3 @@
-import React from "react";
 import howmadeappimg1 from "../../public/assets/howmadeappimg.png";
 import howmadeappimg2 from "../../public/assets/howmadeappimg2.png";
 import howmadeappimg3 from "../../public/assets/howmadeappimg3.png";

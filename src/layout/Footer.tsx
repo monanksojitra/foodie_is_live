@@ -1,4 +1,3 @@
-import React from "react";
 import twit from "../../public/assets/twit.svg";
 import fb from "../../public/assets/fb.svg";
 import logo from "../../public/assets/mainlogo.png";
